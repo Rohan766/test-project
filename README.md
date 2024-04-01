@@ -1,9 +1,14 @@
 # test-project
 Installation Steps:
+
+Code Setup
 1) git clone https://github.com/Rohan766/test-project.git
 2) userName: Rohan766
 3) Password as token: Shared On mail
 4) cd test-project
+
+MongoDB Credential Setup:
+1) Replace MONGODB_USERNAME, MONGODB_PASSWORD and MONGODB_URI with your credential
    
    
 Tasks UT Report
