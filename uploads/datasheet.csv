@@ -1,0 +1,5 @@
+AgentName,FirstName,DOB,Address,PhoneNumber,State,ZipCode,Email,Gender,userType,AccountName,CategoryName,CompanyName,PolicyNumber,PolicyStartDate,PolicyEndDate,PolicyCategory,CollectionId,CompanyCollectionId,UserId
+Agent Smith,passer,1990-05-15,123 Main St,1234567890,California,90001,passer@digital.com,Male,Regular,John's Account,Health Insurance,ABC Insurance,123456789,2024-01-01,2025-01-01,1,1,1,1
+Agent Nik,Rohan,1985-09-20,456 Elm St,0987654321,New York,10001,assessment@yopmail.com,Female,Regular,Jane's Account,Life Insurance,XYZ Insurance,987654321,2023-12-01,2024-12-01,2,2,2,2
+Agent John,Nidhi,1988-07-10,789 Oak St,4561237890,Texas,75001,testing@exayopmailmple.com,Male,Regular,Sam's Account,Auto Insurance,123XYZ Insurance,654321987,2024-02-01,2025-02-01,3,3,3,3
+Agent White,Alica,1992-03-25,101 Pine St,3216549870,Florida,33001,healthconcious@example.com,Female,Regular,Alice's Account,Home Insurance,ABCXYZ Insurance,789123456,2023-11-01,2024-11-01,4,4,4,4
